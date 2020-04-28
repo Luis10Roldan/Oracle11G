@@ -1,3 +1,3 @@
 # Oracle
 
-Soluciones Practica_7
+Soluciones 
